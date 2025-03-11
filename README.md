@@ -67,7 +67,7 @@
 </div>  
 
 ---  
-<h4 align="center">🚀 Featured Projects</h4>  
+<h4 align="center">🚀 Latest Projects</h4>  
 
 <div align="center">  
     <table>  
@@ -76,7 +76,7 @@
                 <h3 align="center">Diabetes Prediction App Machine Learning with TFX (Tensorflow Extended)</h3>  
                 <br>  
                 <a href="https://github.com/Loverzzz/Drone-Forest-Fire-Detection](https://github.com/Loverzzz/diabetes-prediction-app" target="_blank">  
-                    <img src="![image](https://github.com/user-attachments/assets/734ea8be-3fd1-4fc2-b610-11e82faf1c3d)" alt="Drone Forest Fire Detection" width="100%"/>  
+                    <img src="https://github.com/user-attachments/assets/734ea8be-3fd1-4fc2-b610-11e82faf1c3d)" alt="Drone Forest Fire Detection" width="100%"/>  
                 </a>  
                 <br>  
                 <div align="center">  
