@@ -51,7 +51,7 @@
     <img src="https://img.icons8.com/color/48/000000/tensorflow-extended.png" alt="TensorFlow Extended" />  
     <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />  
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" />  
-    <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" />  
+    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />  
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />  
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />  
     <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />  
@@ -68,7 +68,7 @@
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width: 32px; height: 32px;"/>  
     </a>  
     <a href="https://github.com/Loverzzz">  
-        <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" style="width: 32px; height: 32px;"/>  
+        <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="width: 32px; height: 32px;"/>  
     </a>  
     <a href="https://www.instagram.com/reynaldoabt">  
         <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="width: 32px; height: 32px;"/>  
