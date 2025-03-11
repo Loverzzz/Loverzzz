@@ -82,6 +82,7 @@
                 <div align="center">  
                     <a href="https://github.com/Loverzzz/diabetes-prediction-app" target="_blank">  
                         <img src="https://img.shields.io/badge/Repo-View%20Project-red?style=for-the-badge&logo=github" alt="View Project"/>  
+                      <p>Image just Illustration xD </p>
                     </a>  
                 </div>  
                 <p align="center">  
