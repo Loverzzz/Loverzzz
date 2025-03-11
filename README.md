@@ -42,7 +42,7 @@
 ---  
 
 <h4 align="center">🛠️ Frameworks and Tools</h4>  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; max-width: 800px;">  
+<div align="center" style="display: flex; flex-wrap: wrap; center-content: center; max-width: 800px;">  
     <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python" />  
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />  
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> 
