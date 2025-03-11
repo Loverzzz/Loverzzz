@@ -85,7 +85,7 @@
                     </a>  
                 </div>  
                 <p align="center">  
-                    <b>Technologies:</b> Python, OpenCV, Machine Learning, Drone Technology  
+                    <b>Technologies:</b> Python, Tensorflow Extended, Docker, Railway, Prometheus, Grafana
                 </p>  
             </td>  
         </tr>  
