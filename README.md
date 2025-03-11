@@ -67,6 +67,30 @@
 </div>  
 
 ---  
+<h4 align="center">🚀 Featured Projects</h4>  
+
+<div align="center">  
+    <table>  
+        <tr>  
+            <td width="33%" valign="top">  
+                <h3 align="center">Diabetes Prediction App Machine Learning with TFX (Tensorflow Extended)</h3>  
+                <br>  
+                <a href="https://github.com/Loverzzz/Drone-Forest-Fire-Detection" target="_blank">  
+                    <img src="https://via.placeholder.com/350x200.png?text=Drone+Forest+Fire+Detection" alt="Drone Forest Fire Detection" width="100%"/>  
+                </a>  
+                <br>  
+                <div align="center">  
+                    <a href="[https://github.com/Loverzzz/Drone-Forest-Fire-Detection](https://github.com/Loverzzz/diabetes-prediction-app)" target="_blank">  
+                        <img src="https://img.shields.io/badge/Repo-View%20Project-red?style=for-the-badge&logo=github" alt="View Project"/>  
+                    </a>  
+                </div>  
+                <p align="center">  
+                    <b>Technologies:</b> Python, OpenCV, Machine Learning, Drone Technology  
+                </p>  
+            </td>  
+        </tr>  
+    </table>  
+</div>  
 
 <h4 align="center">📝 Connect with Me</h4>  
 <div align="center">  
