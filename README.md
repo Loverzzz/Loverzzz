@@ -45,8 +45,10 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; max-width: 800px;">  
     <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python" />  
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />  
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> 
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />  
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />  
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /> .
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" /> 
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />  
     <img src="https://img.icons8.com/color/48/000000/tensorflow-extended.png" alt="TensorFlow Extended" />  
     <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />  
@@ -54,7 +56,12 @@
     <img src="https://skillicons.dev/icons?i=github" alt="Github" />   
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />  
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />  
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />  
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /> 
+    <img src="https://skillicons.dev/icons?i=promotheus" alt="Promotheus" /> 
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />  
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> 
+    <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" /> 
     <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />  
     <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" />  
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />  
