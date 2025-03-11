@@ -26,7 +26,7 @@
         <a href="https://www.tensorflow.org/tfx" target="_blank" rel="noopener noreferrer">  
             <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow Extended" style="width: 32px; height: 32px;" />  
         </a>  
-        <p>TFX</p>  
+        <p>TFX Extended</p>  
     </div>  
 </div>  
 
