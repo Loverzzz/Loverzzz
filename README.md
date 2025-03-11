@@ -57,7 +57,7 @@
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />  
     <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
     <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /> 
-    <img src="https://skillicons.dev/icons?i=promotheus" alt="Promotheus" /> 
+    <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" /> 
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />  
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> 
     <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" /> 
