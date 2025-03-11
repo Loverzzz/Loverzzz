@@ -52,11 +52,12 @@
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" />  
     <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" />  
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />  
-    <img src="![image](https://github.com/user-attachments/assets/e5d20055-644b-4352-a24e-848a8a5a7ac5)" alt="Pandas" />  
-    <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn" />  
+    <img src="[docker](https://skillicons.dev/icons?i=docker)" alt="Docker" />  
+    <img src="[pytorch](https://skillicons.dev/icons?i=pytorch)" alt="Pytorch" />  
     <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />  
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />  
     <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" />  
+     <img src="[react](https://skillicons.dev/icons?i=react)" alt="React" />  
 </div>  
 
 ---  
