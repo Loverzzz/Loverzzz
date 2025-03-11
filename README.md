@@ -3,10 +3,32 @@
 ### Passionate AI/ML and Data Engineer from Surabaya, ID  
 
 🚀 Currently learning:   
-- ![Vite](https://github.com/user-attachments/assets/7c4f3e6b-9e1d-4560-8598-2b2fbc4c404f) Vite   
-- ![TypeScript](https://github.com/user-attachments/assets/0d5b84db-3fff-4f5d-9325-2f86b986a4b3) TypeScript   
-- ![TFX](https://github.com/user-attachments/assets/34516c77-f868-4b57-b626-6ce8eacd8bac) TFX 🚀  
-
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; max-width: 400px;">  
+    <div style="text-align: center;">  
+        <a href="https://vitejs.dev/">  
+            <img src="https://img.icons8.com/color/32/000000/vite.png" alt="Vite" style="width: 32px; height: 32px;" />  
+        </a>  
+        <p>Vite</p>  
+    </div>  
+    <div style="text-align: center;">  
+        <a href="https://reactjs.org/">  
+            <img src="https://img.icons8.com/color/32/000000/react-native.png" alt="React" style="width: 32px; height: 32px;" />  
+        </a>  
+        <p>React</p>  
+    </div>  
+    <div style="text-align: center;">  
+        <a href="https://www.typescriptlang.org/">  
+            <img src="https://img.icons8.com/color/32/000000/typescript.png" alt="TypeScript" style="width: 32px; height: 32px;" />  
+        </a>  
+        <p>TypeScript</p>  
+    </div>  
+    <div style="text-align: center;">  
+        <a href="https://www.tensorflow.org/tfx">  
+            <img src="https://img.icons8.com/color/32/000000/tensorflow-extended.png" alt="TensorFlow Extended" style="width: 32px; height: 32px;" />  
+        </a>  
+        <p>TFX</p>  
+    </div>  
+</div>  
 ---  
 
 🌟 Hello! I'm a recent graduate in Robotics and Artificial Intelligence from Universitas Airlangga, eager to embark on my journey in the realm of machine learning. 🚀  
