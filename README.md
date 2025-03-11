@@ -23,8 +23,8 @@
         <p>TypeScript</p>  
     </div>  
     <div style="text-align: center; margin: 10px;">  
-        <a href="https://www.tensorflow.org/tfx">  
-            <img src="https://img.icons8.com/color/32/000000/tensorflow-extended.png" alt="TensorFlow Extended" style="width: 32px; height: 32px;" />  
+        <a href="https://www.tensorflow.org/tfx" target="_blank" rel="noopener noreferrer">  
+            <img src="[https://raw.githubusercontent.com/tensorflow/docs/master/site/en/tfx/img/tfx_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tensorflow.org%2Ftfx&psig=AOvVaw3gkAV4XLPxNbQOwYH0dx3k&ust=1741772429207000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjRw4negYwDFQAAAAAdAAAAABAJ)" alt="TensorFlow Extended" style="width: 32px; height: 32px;" />  
         </a>  
         <p>TFX</p>  
     </div>  
