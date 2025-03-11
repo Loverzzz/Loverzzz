@@ -51,7 +51,7 @@
     <img src="https://img.icons8.com/color/48/000000/tensorflow-extended.png" alt="TensorFlow Extended" />  
     <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />  
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" />  
-    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />  
+    <img src="https://skillicons.dev/icons?i=github" alt="Github" />   
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />  
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />  
     <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />  
