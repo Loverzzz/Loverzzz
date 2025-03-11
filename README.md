@@ -63,9 +63,17 @@
 ---  
 
 <h4 align="center">📝 Connect with Me</h4>  
-<p align="center">  
-    - [LinkedIn](https://www.linkedin.com/in/reynaldo-arya-budi-trisna/) <br>  
-    - [GitHub](https://github.com/Loverzzz) <br>  
-    - [Instagram](https://www.instagram.com/reynaldoabt) <br>  
-    - [Gmail](mailto:reynaldstar@gmail.com)  
-</p>  
+<div align="center">  
+    <a href="https://www.linkedin.com/in/reynaldo-arya-budi-trisna/">  
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width: 32px; height: 32px;"/>  
+    </a>  
+    <a href="https://github.com/Loverzzz">  
+        <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" style="width: 32px; height: 32px;"/>  
+    </a>  
+    <a href="https://www.instagram.com/reynaldoabt">  
+        <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="width: 32px; height: 32px;"/>  
+    </a>  
+    <a href="mailto:reynaldstar@gmail.com">  
+        <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="width: 32px; height: 32px;"/>  
+    </a>  
+</div>  
