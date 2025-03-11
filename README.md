@@ -75,12 +75,12 @@
             <td width="33%" valign="top">  
                 <h3 align="center">Diabetes Prediction App Machine Learning with TFX (Tensorflow Extended)</h3>  
                 <br>  
-                <a href="https://github.com/Loverzzz/Drone-Forest-Fire-Detection" target="_blank">  
-                    <img src="https://via.placeholder.com/350x200.png?text=Drone+Forest+Fire+Detection" alt="Drone Forest Fire Detection" width="100%"/>  
+                <a href="https://github.com/Loverzzz/Drone-Forest-Fire-Detection](https://github.com/Loverzzz/diabetes-prediction-app" target="_blank">  
+                    <img src="![image](https://github.com/user-attachments/assets/734ea8be-3fd1-4fc2-b610-11e82faf1c3d)" alt="Drone Forest Fire Detection" width="100%"/>  
                 </a>  
                 <br>  
                 <div align="center">  
-                    <a href="[https://github.com/Loverzzz/Drone-Forest-Fire-Detection](https://github.com/Loverzzz/diabetes-prediction-app)" target="_blank">  
+                    <a href="https://github.com/Loverzzz/Drone-Forest-Fire-Detection](https://github.com/Loverzzz/diabetes-prediction-app" target="_blank">  
                         <img src="https://img.shields.io/badge/Repo-View%20Project-red?style=for-the-badge&logo=github" alt="View Project"/>  
                     </a>  
                 </div>  
