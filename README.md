@@ -54,10 +54,10 @@
     <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" />  
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />  
     <img src="[docker](https://skillicons.dev/icons?i=docker,pytorch)" alt="Docker" />  
-    <img src="[pytorch](https://skillicons.dev/icons?i=pytorch)" alt="Pytorch" />  
+    <img src="(https://skillicons.dev/icons?i=pytorch&perline=1)])" alt="Pytorch" />  
     <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />  
     <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" />  
-     <img src="[react](https://skillicons.dev/icons?i=react)" alt="React" />  
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />  
 </div>  
 
 ---  
