@@ -1,38 +1,6 @@
-<!DOCTYPE html>  
-<html lang="en">  
-<head>  
-    <meta charset="UTF-8">  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Typing Effect</title>  
-    <style>  
-        .typing-effect {  
-            font-family: monospace; /* Use a font that resembles a typewriter */  
-            white-space: nowrap; /* Prevent text from wrapping */  
-            overflow: hidden; /* Hide overflow text */  
-            border-right: 4px solid; /* Create a cursor effect */  
-            width: 0; /* Start with width 0 */  
-            animation: typing 3s steps(10, end), blink-caret 0.75s step-end infinite;  
-        }  
-
-        @keyframes typing {  
-            from {  
-                width: 0;  
-            }  
-            to {  
-                width: 23ch; /* Set this to the length of your text */  
-            }  
-        }  
-
-        @keyframes blink-caret {  
-            50% {  
-                border-color: transparent; /* Create blinking cursor effect */  
-            }  
-        }  
-    </style>  
-</head>  
-<body>  
-
-<h1 align="center" class="typing-effect">👋 Hi there!</h1>  
+<h1 align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4F7&center=true&vCenter=true&random=false&width=435&lines=👋+Hi+there!;Passionate+AI%2FML+Engineer;From+Surabaya%2C+Indonesia" alt="Typing SVG" />  
+</h1>  
 
 <h3 align="center">Passionate AI/ML and Data Engineer from Surabaya, ID</h3>  
 
@@ -69,7 +37,7 @@
 <div align="center" style="max-width: 600px; margin: 20px auto; font-size: 1.1em; line-height: 1.6;">  
     <p>🌟 Hello! I'm a recent graduate in Robotics and Artificial Intelligence from <strong>Universitas Airlangga</strong>, here of my journey in the realm of machine learning.</p>  
     <p> 🚀 Throughout my academic journey, I have proven experience in IoT, data science, machine learning, and drone technology, showcasing a strong portfolio of projects.   
-    I’m on the lookout for an AI/Machine Learning Engineer or Data Scientist role where I can apply my knowledge and passion to contribute to meaningful projects with real-world impact.</p>  
+    I'm on the lookout for an AI/Machine Learning Engineer or Data Scientist role where I can apply my knowledge and passion to contribute to meaningful projects with real-world impact.</p>  
 </div>  
 
 ---  
@@ -115,6 +83,3 @@
         <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="width: 32px; height: 32px;"/>  
     </a>  
 </div>  
-
-</body>  
-</html>  
