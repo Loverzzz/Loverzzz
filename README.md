@@ -33,11 +33,9 @@
 ---  
 
 <div align="center" style="max-width: 600px; margin: 20px auto; font-size: 1.1em; line-height: 1.6;">  
-    <p>🌟 Hello! I'm a recent graduate in Robotics and Artificial Intelligence from <strong>Universitas Airlangga</strong>, eager to embark on my journey in the realm of machine learning. 🚀</p>  
-    
-    <p>Throughout my academic journey, I have proven experience in IoT, data science, machine learning, and drone technology, showcasing a strong portfolio of projects.</p>  
-    
-    <p>I’m on the lookout for an AI/Machine Learning Engineer or Data Scientist role where I can apply my knowledge and passion to contribute to meaningful projects with real-world impact.</p>  
+    <p>🌟 Hello! I'm a recent graduate in Robotics and Artificial Intelligence from <strong>Universitas Airlangga</strong>, eager to embark on my journey in the realm of machine learning. 🚀  
+    Throughout my academic journey, I have proven experience in IoT, data science, machine learning, and drone technology, showcasing a strong portfolio of projects. 
+    I’m on the lookout for an AI/Machine Learning Engineer or Data Scientist role where I can apply my knowledge and passion to contribute to meaningful projects with real-world impact.</p>  
 </div>  
 
 ---  
