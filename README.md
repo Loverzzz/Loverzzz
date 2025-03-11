@@ -36,7 +36,7 @@ I’m on the lookout for an AI/Machine Learning Engineer or Data Scientist role 
 ---  
 
 ## 📝 Connect with Me  
-- [LinkedIn](https://linkedin.com/in/yourprofil](https://www.linkedin.com/in/reynaldo-arya-budi-trisna/)  
-- [GitHub](https://github.com/yourusername](https://github.com/Loverzzz)  
-- [Instagram](https://twitter.com/yourprofil](https://www.instagram.com/reynaldoabt)
-- [Gmail](reynaldstar@gmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/reynaldo-arya-budi-trisna/])
+- [GitHub]([https://github.com/Loverzzz])  
+- [Instagram]([https://www.instagram.com/reynaldoabt])
+- [Gmail]([reynaldstar@gmail.com])
