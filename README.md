@@ -24,7 +24,7 @@
     </div>  
     <div style="text-align: center; margin: 10px;">  
         <a href="https://www.tensorflow.org/tfx" target="_blank" rel="noopener noreferrer">  
-            <img src="[https://raw.githubusercontent.com/tensorflow/docs/master/site/en/tfx/img/tfx_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tensorflow.org%2Ftfx&psig=AOvVaw3gkAV4XLPxNbQOwYH0dx3k&ust=1741772429207000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjRw4negYwDFQAAAAAdAAAAABAJ)" alt="TensorFlow Extended" style="width: 32px; height: 32px;" />  
+            <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow Extended" style="width: 32px; height: 32px;" />  
         </a>  
         <p>TFX</p>  
     </div>  
@@ -49,8 +49,7 @@
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />  
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /> .
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" /> 
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />  
-    <img src="https://img.icons8.com/color/48/000000/tensorflow-extended.png" alt="TensorFlow Extended" />  
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />   
     <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />  
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" />  
     <img src="https://skillicons.dev/icons?i=github" alt="Github" />   
