@@ -1,5 +1,5 @@
 <h1 align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4F7&center=true&vCenter=true&random=false&width=435&lines=👋+Hi+there!;Passionate+AI%2FML+Engineer;From+Surabaya%2C+Indonesia" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4F7&center=true&vCenter=true&random=false&width=435&lines=👋+Hi+there!;Passionate+AI%2FML+Engineer;From+Surabaya%2C+Indonesia" alt="Typing SVG" /> 
 </h1>  
 
 <h3 align="center">Passionate AI/ML and Data Engineer from Surabaya, ID</h3>  
