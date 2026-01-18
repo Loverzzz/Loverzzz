@@ -30,13 +30,14 @@
         </a>
         <p>TFX Extended</p>
     </div>
- <div style="text-align: center; margin: 10px;">
+    <div style="text-align: center; margin: 10px;">
         <a href="https://n8n.io/" target="_blank" rel="noopener noreferrer">
-            <img src=<img src="https://n8n.io/favicon.ico" alt="n8n" alt="n8n" style="width: 32px; height: 32px;" />
-        </
-        <p>n8n automation</p>
+            <img src="https://n8n.io/favicon.ico" alt="n8n" style="width: 32px; height: 32px;" />
+        </a>
+        <p>n8n Automation</p>
     </div>
 </div>
+
 
 ---
 
